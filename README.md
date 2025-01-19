@@ -7,5 +7,7 @@ This project uses Convolutional Neural Networks (CNN) to classify the Fashion MN
 This project is implemented using the following libraries:
 
 TensorFlow: A deep learning framework used to build and train the CNN model.
+
 Keras: A high-level API for building neural networks, which is used within TensorFlow.
+
 NumPy: Used for array manipulation.
