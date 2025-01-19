@@ -1,8 +1,8 @@
-##Overview
+### **Overview**
 
 This project uses Convolutional Neural Networks (CNN) to classify the Fashion MNIST dataset. The dataset consists of 60,000 28x28 grayscale images of 10 fashion categories, such as t-shirts, trousers, shoes, and more. The goal of this project is to develop a machine learning model capable of accurately classifying these images into their respective categories.
 
-##Libraries and Dependencies
+### **Libraries and Dependencies**
 
 This project is implemented using the following libraries:
 
